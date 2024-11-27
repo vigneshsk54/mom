@@ -1,0 +1,29 @@
+## Zoom Meeting Minutes
+
+**Date:** October 26, 2023
+**Attendees:** [List Attendees Here]
+**Topic:** Recording Zoom Meetings and Clarifying Terminology
+
+**Discussion:**
+
+The meeting addressed how to record video in Zoom meetings on laptops with audio.  Steps were reviewed and clarified.  The distinction between "meeting" and "conference" was also briefly discussed.
+
+
+**Action Items:**
+
+* **[Attendee Name]:**  Document the Zoom recording steps (including screenshots if helpful) for team distribution.  Target completion: [Date].
+* **[Attendee Name]:** Research and provide a concise definition differentiating between the terms "meeting" and "conference" in the context of business communication.  Target completion: [Date].
+
+
+## Zoom Recording Instructions
+
+To record a video in a Zoom meeting on your laptop with audio:
+
+1. Launch the Zoom application.
+2. Click the arrow next to the microphone icon.
+3. Ensure the correct microphone and speaker are selected.
+4. If you are the host, click "Participants," hover over a participant's name, click "More," and select "Record." (Alternative methods for recording may exist depending on Zoom version and settings)
+
+
+## Note:  The provided text doesn't offer specific details regarding a discussion around the difference between "meeting" and "conference." The action item addresses this lack of clarity.
+
